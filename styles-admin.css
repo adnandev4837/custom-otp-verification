@@ -1,0 +1,15 @@
+table.dataTable tbody tr {
+   background-color: #f9f9f9;
+    text-align: center;
+}
+.dataTables_wrapper .dataTables_length select {
+    padding: 4px 20px !important;
+}
+table#numberListTable {
+    width: 99%;
+	border: none;
+}
+.adminInputField{
+	width: 18%;
+    padding: 5px !important;
+}

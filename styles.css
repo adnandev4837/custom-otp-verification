@@ -1,0 +1,21 @@
+.otpFrom{
+    display: flex;
+}
+.otpInput{
+    width: 67% !important;
+	height:58px;
+	border: 1px solid #f5f5f5 !important;
+    border-radius: 50px 0 0 50px !important;
+}
+.otpButton {
+    width: 22%;
+	height: 58px !important;
+    border-radius: 0 50px 50px 0;
+}
+p.otpHeading {
+    font-size: 16px;
+}
+p.popupNote {
+    font-size: 12px;
+    width: 90%;
+}

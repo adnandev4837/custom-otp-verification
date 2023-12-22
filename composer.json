@@ -1,0 +1,14 @@
+{
+    "name": "leed/custom-otp-verification",
+    "autoload": {
+        "psr-4": {
+            "Leed\\CustomOtpVerification\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leed"
+        }
+    ],
+    "require": {"twilio/sdk": "^7.4"}
+}
